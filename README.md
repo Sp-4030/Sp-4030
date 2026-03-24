@@ -18,7 +18,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
