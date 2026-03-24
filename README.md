@@ -28,7 +28,6 @@
   </a>
 </div>
 
-📧 Email: your-email@gmail.com  
 
 ---
 
