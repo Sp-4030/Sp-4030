@@ -1,4 +1,5 @@
 # 💫 About Me:
+👨‍🎓 I’m BCA Student At D.R Mane Collage, Kagal
 🔭 I’m currently working on Mandal Expense Management Its My Collage project<br>
 
 
