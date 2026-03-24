@@ -2,68 +2,96 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Shantanu Patil</h1>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot | React | Full Stack Learner</h3>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 BCA Student at D.R. Mane College (Shivaji University)  
+💻 Passionate Java Backend Developer with hands-on experience in Spring Boot  
+🌱 Currently learning Full Stack Development (React + Backend Integration)  
+🚀 Building: **Mandal Expense Management System**  
+📈 Improving DSA & System Design skills  
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/shantanu_5078?igsh=eWh2YmYwYWE0ZmN3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/shantanu_5078" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
-###
+📧 Email: your-email@gmail.com  
 
-<h1 align="center">Hi 👋, I'm Shantanu Patil</h1>
+---
 
-###
+## 🚀 Projects
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🧾 Mandal Expense Management System
+- Built using **Java, Spring Boot, MySQL**
+- Features:
+  - Expense tracking
+  - User roles & authentication
+  - Reports & summaries
+- Solves real-world financial management problems
 
-###
+---
 
-<p align="left">🎓 BCA Student at D.R. Mane College, Kagal ( Under Shivaji University )<br>💻 Java Backend Developer | Full Stack Learner<br>🚀 Currently building: Mandal Expense Management System</p>
-
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sp-4030&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sp-4030&theme=dark" height="200"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sp-4030&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sp-4030&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Sp-4030/Sp-4030/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sp-4030/Sp-4030/output/snake.svg" />
+</div>
+
+---
+
+## 💡 Goals
+
+- 🔥 Become a skilled Backend Engineer  
+- ⚡ Build scalable real-world applications  
+- 🌍 Contribute to Open Source  
+
+---
+
+⭐️ From [Shantanu Patil](https://github.com/Sp-4030)
