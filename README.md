@@ -78,14 +78,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sp-4030/Sp-4030/output/snake.svg" />
-</div>
-
----
-
 ## 💡 Goals
 
 - 🔥 Become a skilled Backend Engineer  
