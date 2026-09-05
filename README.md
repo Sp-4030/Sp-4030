@@ -12,7 +12,6 @@
 🎓 Graduate Student (BCA)<br/>
 💻 Passionate Java Backend Developer with hands-on experience in Spring Boot  
 🌱 Currently learning Full Stack Development (React + Backend Integration)  
-🚀 Building: **Mandal Expense Management System**  
 
 ---
 
