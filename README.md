@@ -21,12 +21,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 BCA Graduate
-🤖 Interested in **Artificial Intelligence & Machine Learning**
-🧠 Learning **Generative AI, LLMs, RAG & Multi-Agent AI Systems**
-🐍 Building AI applications using **Python**
-☕ Learning **Java, Spring Boot & Backend Development**
-🌱 Exploring **Full Stack Development**
+🎓 BCA Graduate<br/>
+🤖 Interested in **Artificial Intelligence & Machine Learning**<br/>
+🧠 Learning **Generative AI, LLMs, RAG & Multi-Agent AI Systems**<br/>
+🐍 Building AI applications using **Python**<br/>
+☕ Learning **Java, Spring Boot & Backend Development**<br/>
+🌱 Exploring **Full Stack Development**<br/>
 🚀 Passionate about building practical, real-world projects
 
 ---
