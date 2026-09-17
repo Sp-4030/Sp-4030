@@ -264,13 +264,7 @@ Also learning:
 
 </div>
 
----
 
-## ⚡ Fun Fact
-
-> I enjoy turning ideas into working AI projects 🚀
-
----
 
 <div align="center">
 
